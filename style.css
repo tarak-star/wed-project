@@ -1,0 +1,27 @@
+
+body 
+{
+  background-color: lightblue;
+}
+
+h1
+{
+   color:white;
+  text-align: center; 
+   background-color: black;
+ padding: 35px;
+
+{
+
+img
+{
+ 
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+a{
+  text-decoration: none;
+  color:white;
+}
